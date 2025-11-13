@@ -3,4 +3,4 @@ Cours d'HTML de AS
 
 Repository de Teddy BURGUN
 
-Liens vers mon portfolio officiel : https://www.cv.juyo.fr/
+Liens vers mon portfolio officiel : [https://www.cv.juyo.fr/](https://cv.juyo.fr)
